@@ -1,0 +1,42 @@
+[
+  {
+    "identificacionMulta": "001",
+    "numeroPropiedad": "2114B",
+    "fechaMulta": "24/10/2024",
+    "fechaEventos": "19/10/2024",
+    "zonaComun": "Gimnasio",
+    "valorMulta": "150.000",
+    "fechaLimitePago": "24/11/2024",
+    "observaciones": "Daño maquina pierna"
+  },
+  {
+    "identificacionMulta": "002",
+    "numeroPropiedad": "2003A",
+    "fechaMulta": "24/10/2024",
+    "fechaEventos": "19/10/2024",
+    "zonaComun": "Parque infantil",
+    "valorMulta": "100.000",
+    "fechaLimitePago": "24/11/2024",
+    "observaciones": "Daño columpio"
+  },
+  {
+    "identificacionMulta": "003",
+    "numeroPropiedad": "2134C",
+    "fechaMulta": "24/10/2024",
+    "fechaEventos": "19/10/2024",
+    "zonaComun": "Zona de picnic",
+    "valorMulta": "120.000",
+    "fechaLimitePago": "24/11/2024",
+    "observaciones": "Daño bbq"
+  },
+  {
+    "identificacionMulta": "009",
+    "numeroPropiedad": "2116A",
+    "fechaMulta": "24/10/2024",
+    "fechaEventos": "19/10/2024",
+    "zonaComun": "Gimnasio",
+    "valorMulta": "200.000",
+    "fechaLimitePago": "24/11/2024",
+    "observaciones": "Daño maquina pecho"
+  }
+]
